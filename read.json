@@ -1,0 +1,58 @@
+
+
+{
+"data": [{
+"operation" : 1,
+"client_id" : 1,
+"name": "Александр",
+"surname": "Кудряшов",
+"otchestvo": "Сергеевич",
+
+"balance": 22600
+},
+{
+"operation" : 1,
+"client_id" : 2,
+"name": "Тимур",
+"surname": "Салаев",
+"otchestvo": "Эльдарович",
+
+"balance": 21434
+},
+{
+"operation" : 1,
+"client_id" : 3,
+"name": "Алексей",
+"surname": "Сушенцев",
+"otchestvo": "Артемович",
+
+"balance": 22228
+},
+{
+"operation" : 1,
+"client_id" : 4,
+"name": "Дамир",
+"surname": "Хужаев",
+"otchestvo": "Растямович",
+
+"balance": 2343
+},
+{
+"operation" : 1,
+"client_id" : 5,
+"name": "Леонель",
+"surname": "Мэсси",
+"otchestvo": "Иванович",
+
+"balance": 600000
+},
+{
+"auto_id":auto_id,
+"model": model,
+"nomber": nomber,
+"max_weight": max_weight,
+"st_pust": st_pust,
+"st_grug": st_grug
+}
+]
+}
